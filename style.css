@@ -17,7 +17,11 @@ body{
 html {
 scroll-behavior: smooth;
 }
-
+#title1{
+    text-align: center;
+    color: #fff;
+    padding: 40px 0;      
+}
 .stopwatch{
     width: auto;
     max-width: 100%;
